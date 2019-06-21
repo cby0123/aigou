@@ -14,6 +14,7 @@
     <modules>
         <module>aigou_eureka_provider_8001</module>
         <module>aigou_eureka_interface</module>
+        <module>aigou_eureka_consumer_80011</module>
     </modules>
 
 
